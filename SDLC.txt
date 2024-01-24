@@ -1,0 +1,43 @@
+- Vòng đời Phát triển Phần mềm (SDLC) là quy trình cấu trúc hoặc chuỗi các giai đoạn được sử dụng trong quá trình phát triển ứng dụng hoặc hệ thống phần mềm. Mục tiêu chính của SDLC là tạo ra phần mềm chất lượng cao, đáp ứng hoặc vượt qua kỳ vọng của khách hàng, được giao đúng hạn và trong ngân sách, và tuân thủ các quy định áp dụng. Các giai đoạn và hoạt động cụ thể có thể thay đổi tùy thuộc vào mô hình theo dõi, nhưng một SDLC điển hình thường bao gồm các giai đoạn sau:
+
+1. Lập kế hoạch:
+
+Xác định phạm vi dự án, mục tiêu và yêu cầu.
+Tiến hành các nghiên cứu khả thi và đánh giá rủi ro.
+Phát triển kế hoạch dự án, bao gồm các khung thời gian, phân bổ nguồn lực và dự ngân sách.
+
+2. Phân tích:
+
+Thu thập và phân tích yêu cầu từ các bên liên quan.
+Xác định kiến trúc hệ thống, cấu trúc dữ liệu và chức năng.
+Tạo tài liệu mô tả chức năng chi tiết.
+
+3. Thiết kế:
+
+Phát triển thiết kế kỹ thuật chi tiết dựa trên mô tả chức năng.
+Thiết kế kiến trúc hệ thống, cấu trúc cơ sở dữ liệu và giao diện người dùng.
+Tạo ra mô hình hay bản mẫu để kiểm tra và xác nhận.
+
+4. Triển khai (Lập trình):
+
+Viết mã dựa trên thiết kế.
+Tiến hành kiểm thử đơn vị để đảm bảo các thành phần hoạt động như mong đợi.
+Tích hợp các mô-đun mã vào một hệ thống hoàn chỉnh.
+
+5. Kiểm thử:
+
+Tiến hành các hoạt động kiểm thử như kiểm thử hệ thống, kiểm thử tích hợp và kiểm thử chấp nhận.
+Xác định và sửa lỗi hoặc vấn đề phát sinh.
+Đảm bảo phần mềm đáp ứng yêu cầu và chất lượng được xác định.
+6. Triển khai:
+
+Phát hành phần mềm cho người dùng hoặc triển khai nó trong môi trường sản xuất.
+Cung cấp đào tạo người dùng và tài liệu hỗ trợ.
+Giám sát hệ thống để phát hiện vấn đề trong quá trình sử dụng ban đầu.
+
+7. Bảo trì và Hỗ trợ:
+
+Đối mặt với các vấn đề được báo cáo từ người dùng.
+Triển khai các cập nhật, cải tiến hoặc bản vá khi cần thiết.
+Giám sát và tối ưu hóa hiệu suất hệ thống.
+Lưu ý rằng có nhiều mô hình SDLC khác nhau, và tổ chức có thể chọn mô hình phù hợp với nhu cầu của họ. Agile, ví dụ, nổi tiếng với tính linh hoạt và tính lặp lại của nó, trong khi Waterfall là một phương pháp tuần tự và linh hoạt hơn.
